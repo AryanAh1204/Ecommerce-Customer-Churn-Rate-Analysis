@@ -1,5 +1,6 @@
 # Ecommerce-Customer-Churn-Rate-Analysis
 Ecommerce-Customer-Churn-Rate-Analysis (SQL + Excel/Power BI)
+
 📌 Overview
 
 Analyzed customer churn for an e-commerce platform using SQL and Excel/Power BI to identify patterns in retention vs churn and provide actionable insights.
